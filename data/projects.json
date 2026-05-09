@@ -1,0 +1,78 @@
+[
+  {
+    "id": "clm-graphics",
+    "title": "CLM Graphics",
+    "description": "Designed a full suite of promotional and service graphics for an event center client, establishing a cohesive visual identity across all marketing materials.",
+    "techStack": ["Canva"],
+    "completionDate": "2025-05-01",
+    "category": "Design",
+    "status": "Completed",
+    "keyContributions": [
+      "Designed service graphics for an Event Center client"
+    ],
+    "evidenceLinks": [
+      "https://www.canva.com/design/DAHA4OYPE4k/u1r-xVbL8NJzqeJDO-G4Vg/edit"
+    ]
+  },
+  {
+    "id": "page-creation",
+    "title": "Page Creation",
+    "description": "Assisted in updating and auditing content for multiple car dealership websites, improving SEO metadata, internal links, and overall page quality across templates.",
+    "techStack": ["SEO", "HTML", "CSS", "VSCode", "Mobile Simulator Extension"],
+    "completionDate": "2025-05-10",
+    "category": "SEO Audit",
+    "status": "Completed",
+    "keyContributions": [
+      "Assisted in updating content for car dealership websites",
+      "Reviewed media queries, SEO metadata, map links, internal links, and H1 tags/descriptions for assigned sites",
+      "Replaced and updated images across various car dealer templates"
+    ],
+    "evidenceLinks": [
+      "https://docs.google.com/document/d/1m9uPkE1fjwPMxFwIkzSwRAlg83B_9qNJDJjzvaBGup8/edit?tab=t.0",
+      "https://docs.google.com/document/d/1tJ32PxJmtvJ1vI-AJ1vgXUfxlZGXrf_rhpvJ5WnC00k/edit?tab=t.0",
+      "https://docs.google.com/document/d/1M19tanWVznbzdWmgtmGKTYHV-bGVIO-0B-OD_hTWSJA/edit?tab=t.0",
+      "https://docs.google.com/document/d/1GoyMk3YQvJQxsbkf9Jjz00H4KXM7DETFpmc-D01QW4k/edit?tab=t.0",
+      "https://docs.google.com/document/d/1p6QX-DIFHsSKGeLD4S8OXibGX8N9oO3ODW4wPT22Krc/edit?tab=t.0",
+      "https://docs.google.com/spreadsheets/d/1I9DWg38yJfCJxWGHwZobB0X5bh_S__mjN-Ae6fUUhio/edit?gid=0#gid=0"
+    ]
+  },
+  {
+    "id": "svs-mdrrmo",
+    "title": "Smart Verification System (SVS)",
+    "description": "Contributed to the MDRRMO Smart Verification System — a platform for emergency dispatching and identity verification — through UI refinement, end-to-end testing, and a concept presentation deck.",
+    "techStack": ["Node.js", "EJS", "Tailwind CSS", "VSCode"],
+    "completionDate": "2025-05-15",
+    "category": "Full Stack",
+    "status": "Completed",
+    "keyContributions": [
+      "Addressed styling issues in CSS and fine-tuned layout positioning to improve clarity and structure",
+      "Carried out end-to-end testing to uncover and resolve issues affecting user flow",
+      "Designed a PowerPoint deck to present the SVS concept and its process flow",
+      "Refined the interface by applying consistent spacing and alignment",
+      "Incorporated branding elements, contact hotlines, and other key information"
+    ],
+    "liveLink": "https://svsmdrrmo.vercel.app/",
+    "githubLink": "https://github.com/BrownyKat/SVS-MDRRMO.git",
+    "evidenceLinks": [
+      "https://svsmdrrmo.vercel.app/",
+      "https://svsmdrrmo.vercel.app/login",
+      "https://svsmdrrmo.vercel.app/dispatcher/login"
+    ]
+  },
+  {
+    "id": "deskdine",
+    "title": "DeskDine",
+    "description": "Built and continuously refined the staff dashboard interface for a restaurant ordering system, focusing on operational efficiency, clear information hierarchy, and accessibility.",
+    "techStack": ["VSCode", "HTML", "CSS", "JavaScript"],
+    "completionDate": "",
+    "category": "Frontend",
+    "status": "In Progress",
+    "keyContributions": [
+      "Built the staff dashboard layout and overall interface",
+      "Organized grid sections to emphasize the most critical order information",
+      "Continuously enhanced the UI using early feedback, focusing on better button access and clearer color contrast",
+      "Optimized the ordering flow to support faster and more efficient staff operations"
+    ],
+    "githubLink": "https://github.com/jean111051/deskdine.git"
+  }
+]
