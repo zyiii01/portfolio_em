@@ -6,9 +6,9 @@ import Badge from "@/components/atoms/Badge";
 import Button from "@/components/atoms/Button";
 
 export const metadata: Metadata = {
-  title: "Zion Joy B. Barlongo – Web Developer",
+  title: "Zion Joy B. Barlongo – UI/UX Designer ",
   description:
-    "Portfolio and internship activity log of Zion Joy B. Barlongo — web developer focused on clean code, SEO, and performant UI.",
+    "Portfolio and internship activity log of Zion Joy B. Barlongo —  UI/UX Designer focused on clean code, SEO, and performant UI.",
 };
 
 const SOCIAL_LINKS = [
@@ -63,7 +63,7 @@ export default function HomePage() {
               className="text-xs font-medium tracking-[0.2em] uppercase"
               style={{ color: "var(--rose)" }}
             >
-              Available for Internship
+              IT Intern / Makerspace Innovhub
             </span>
           </div>
 
@@ -80,7 +80,7 @@ export default function HomePage() {
             className="text-xl font-light tracking-wide"
             style={{ color: "var(--rose)" }}
           >
-            Web Developer
+           UI/UX Designer
           </p>
 
           {/* Bio */}

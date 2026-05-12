@@ -1,30 +1,35 @@
 ---
-title: "Week 1 – Hitting the Ground Running"
-date: "2025-04-28"
+title: "Week 1: Orientation and Design-to-Development Foundations"
+date: "February 9-13, 2026"
 week: 1
-tags: ["Canva", "Design", "Onboarding"]
-excerpt: "First week of internship: set up tools, completed the CLM Graphics project for an event center client."
+tags: ["Orientation", "Canva", "HTML", "SOP", "Page Creation"]
+excerpt: "Week 1 focused on onboarding, Canva-based design tasks, SOP review, and early technical page creation work."
 ---
+
+## Title
+
+Week 1: Orientation and Design-to-Development Foundations
+
+## Date Range
+
+February 9-13, 2026
 
 ## Overview
 
-The first week was all about orientation and jumping straight into work. I was assigned my first real project — designing service graphics for an event center client using Canva.
+The first week focused on onboarding at Makerspace Innovhub, understanding the team's workflow, and beginning assigned tasks that moved from visual design work into technical website content preparation.
 
-## What I Did
+## Activities
 
-- Set up my workstation and tools (Canva, VSCode, Chrome extensions)
-- Received the brief for CLM Graphics and began ideating layouts
-- Delivered a full set of promotional materials for the event center client
-- Presented the finished designs for feedback and approval
+- Participated in orientation and interview activities
+- Designed a template using Canva
+- Explored Canva tools for layout and design work
+- Continued template design for clients' full-service materials
+- Refined layouts for better visual clarity
+- Reviewed SOPs and studied standard procedures
+- Migrated and formatted vehicle comparison content using HTML
+- Reviewed SOPs related to page creation
+- Worked on page creation tasks for clients
 
-## What I Learned
+## Reflection
 
-Designing for a real client is very different from personal projects. Every design decision needs justification, and feedback loops matter. I learned to present options rather than a single solution.
-
-## Challenges
-
-Time was the main constraint. Balancing creative quality with a quick turnaround required prioritization — knowing when "good enough" is actually good enough.
-
-## Next Steps
-
-Moving into the Page Creation project — reviewing car dealership websites for SEO and layout issues.
+This week helped me understand how design decisions connect to implementation work. I started with Canva-based layout tasks, then gradually shifted into SOP review, HTML formatting, and page creation, which gave me a clearer view of how visual design standards are carried into technical website updates.

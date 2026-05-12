@@ -1,31 +1,33 @@
 ---
-title: "Week 2 – SEO Audits & Page Creation"
-date: "2025-05-05"
+title: "Week 2: SEO Review and Client Page Template Support"
+date: "February 14-20, 2026"
 week: 2
-tags: ["SEO", "HTML", "CSS", "Audit"]
-excerpt: "Deep-dived into car dealership website audits — reviewing SEO metadata, media queries, and replacing outdated images."
+tags: ["GitHub", "SEO", "Page Creation", "Templates", "Client Work"]
+excerpt: "Week 2 focused on GitHub learning, SEO checks, client page templates, and support work for Pandan Chain."
 ---
+
+## Title
+
+Week 2: SEO Review and Client Page Template Support
+
+## Date Range
+
+February 14-20, 2026
 
 ## Overview
 
-Week 2 was technical and research-heavy. I was assigned to the Page Creation project, auditing and improving multiple car dealership websites.
+This week focused on strengthening technical awareness through GitHub learning, website quality checks, and client page preparation. The work also included support tasks for project documentation and template creation.
 
-## What I Did
+## Activities
 
-- Reviewed SEO metadata (titles, descriptions, H1 tags) across assigned dealer pages
-- Tested mobile responsiveness using the Mobile Simulator Chrome extension
-- Fixed broken map links and updated internal navigation links
-- Replaced outdated images with new assets, maintaining proper dimensions and alt text
-- Documented all changes in shared Google Docs for team review
+- Attended a seminar about GitHub and vibe coding
+- Checked media queries, SEO meta data, map links, internal links, H1 headings, and descriptions for assigned websites
+- Supported Pandan Chain by converting audio to text to fast-track the consolidation of interview results
+- Created a template for a model page
+- Continued creating model and comparison page templates for clients
+- Added clients to the page creation workflow
+- Continued adding clients and preparing client-related page content
 
-## What I Learned
+## Reflection
 
-SEO is not just about keywords — it's about the entire technical health of a page. I learned how small things like a missing H1 or a broken map embed can significantly hurt search rankings.
-
-## Challenges
-
-Working across multiple site templates with inconsistent code styles was tricky. I had to adapt my approach per site instead of applying a one-size-fits-all fix.
-
-## Next Steps
-
-Transitioning to the SVS (Smart Verification System) project — frontend refinement and testing.
+This week helped me connect technical auditing with practical client work. I learned how SEO checks, responsive review, and organized templates contribute to cleaner website delivery, while the GitHub seminar gave me more context for collaborative development workflows.
