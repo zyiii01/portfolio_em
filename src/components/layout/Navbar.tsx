@@ -7,6 +7,7 @@ const links = [
   { label: "Home", href: "/" },
   { label: "Work", href: "/work" },
   { label: "Logs", href: "/logs" },
+  { label: "About Me", href: "/about" },
 ];
 
 export default function Navbar() {
@@ -46,18 +47,6 @@ export default function Navbar() {
           })}
         </ul>
       </nav>
-
-      {/* CTA */}
-      <Link
-        href="mailto:zionjoy@email.com"
-        className="btn-pulse text-xs font-semibold tracking-[0.08em] px-5 py-2 rounded-full transition-transform"
-        style={{
-          background: "var(--butter)",
-          color: "var(--royal)",
-        }}
-      >
-        Hire Me
-      </Link>
     </header>
   );
 }

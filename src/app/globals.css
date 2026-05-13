@@ -92,6 +92,21 @@ body {
   transform: translateY(-4px);
 }
 
+.about-info-card {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.16);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.18);
+}
+
+.about-info-card:hover {
+  background: rgba(200, 71, 113, 0.14);
+  border-color: rgba(255, 233, 138, 0.45);
+  box-shadow: 0 22px 60px rgba(200, 71, 113, 0.18);
+  transform: translateY(-4px);
+}
+
 .social-link {
   background: rgba(255,255,255,0.04);
   border-color: rgba(255,255,255,0.18);
