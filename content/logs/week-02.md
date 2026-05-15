@@ -6,10 +6,6 @@ tags: ["GitHub", "SEO", "Page Creation", "Templates", "Client Work"]
 excerpt: "Week 2 focused on GitHub learning, SEO checks, client page templates, and support work for Pandan Chain."
 ---
 
-## Title
-
-Week 2: SEO Review and Client Page Template Support
-
 ## Date Range
 
 February 14-20, 2026

@@ -6,10 +6,6 @@ tags: ["MIH", "Client Auditing", "Operations", "Digital Solution", "WFH"]
 excerpt: "Week 9 focused on auditing client lists, identifying friction points in daily operations, and proposing a digital solution concept."
 ---
 
-## Title
-
-Week 9: Client Auditing and Digital Solution Planning
-
 ## Date Range
 
 April 13-17, 2026

@@ -6,10 +6,6 @@ tags: ["Node.js", "RA Project", "Hackathon", "Team Work"]
 excerpt: "Week 3 focused on Node.js learning, RA project support, and preparation for hackathon-related work."
 ---
 
-## Title
-
-Week 3: Node.js Learning and Hackathon Preparation
-
 ## Date Range
 
 February 23-26, 2026

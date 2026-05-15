@@ -6,10 +6,6 @@ tags: ["Disaster Response", "Emergency Verification", "Finalization", "WFH", "We
 excerpt: "Week 8 focused on final development, refinement, and completion of the Disaster Response and Emergency Verification system."
 ---
 
-## Title
-
-Week 8: Finalization of the Emergency Verification Project
-
 ## Date Range
 
 April 6-10, 2026

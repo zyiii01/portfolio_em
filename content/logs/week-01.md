@@ -6,10 +6,6 @@ tags: ["Orientation", "Canva", "HTML", "SOP", "Page Creation"]
 excerpt: "Week 1 focused on onboarding, Canva-based design tasks, SOP review, and early technical page creation work."
 ---
 
-## Title
-
-Week 1: Orientation and Design-to-Development Foundations
-
 ## Date Range
 
 February 9-13, 2026

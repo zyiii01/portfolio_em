@@ -6,10 +6,6 @@ tags: ["MIH", "DeskDine", "Testing", "Bug Hunting", "Portfolio"]
 excerpt: "Week 12 focused on DeskDine bug hunting, testing, progress review, adding a recommendation feature, and starting portfolio development."
 ---
 
-## Title
-
-Week 12: DeskDine Testing and Portfolio Development
-
 ## Date Range
 
 May 4-7, 2026

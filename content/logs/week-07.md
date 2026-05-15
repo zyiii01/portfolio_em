@@ -6,10 +6,6 @@ tags: ["GrainWatch PH", "Disaster Response", "Feature Development", "UI", "Repor
 excerpt: "Week 7 focused on continuing project development, improving reporting flows, fixing errors, and adding new features."
 ---
 
-## Title
-
-Week 7: Feature Development and Workflow Improvements
-
 ## Date Range
 
 March 23-27, 2026

@@ -6,10 +6,6 @@ tags: ["MIH", "DeskDine", "UI Design", "Development", "WFH"]
 excerpt: "Week 10 focused on starting DeskDine tasks, designing the interface, refining layouts, and improving navigation."
 ---
 
-## Title
-
-Week 10: DeskDine UI Design and Development
-
 ## Date Range
 
 April 21-25, 2026

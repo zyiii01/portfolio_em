@@ -6,10 +6,6 @@ tags: ["Node.js", "Debugging", "MDRRMO", "UI", "Disaster Response"]
 excerpt: "Week 6 focused on Node.js review, bug fixing, UI refinement, and improvements to the emergency verification system."
 ---
 
-## Title
-
-Week 6: Technical Review and Disaster Response System Refinement
-
 ## Date Range
 
 March 16-19, 2026

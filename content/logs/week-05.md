@@ -6,10 +6,6 @@ tags: ["Node.js", "Page Creation", "Client Templates", "Layout", "Content"]
 excerpt: "Week 5 focused on Node.js practice, client-facing content templates, and page setup improvements."
 ---
 
-## Title
-
-Week 5: Node.js Practice and Client Page Setup
-
 ## Date Range
 
 March 9-13, 2026

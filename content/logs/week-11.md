@@ -6,10 +6,6 @@ tags: ["MIH", "DeskDine", "Functionality", "UI/UX", "Optimization"]
 excerpt: "Week 11 focused on revising DeskDine functionality, improving UI/UX, fixing bugs, and presenting project progress."
 ---
 
-## Title
-
-Week 11: DeskDine Functionality and UI/UX Refinement
-
 ## Date Range
 
 April 27-May 2, 2026

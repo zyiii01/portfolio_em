@@ -6,10 +6,6 @@ tags: ["Hack4Mapandan", "Disaster Response", "Presentation", "Logo Design", "Nod
 excerpt: "Week 4 focused on Hack4Mapandan planning, disaster response presentation work, logo creation, and continued Node.js learning."
 ---
 
-## Title
-
-Week 4: Hack4Mapandan Planning and Presentation Development
-
 ## Date Range
 
 March 2-6, 2026
