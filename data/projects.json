@@ -2,13 +2,19 @@
   {
     "id": "clm-graphics",
     "title": "CLM Graphics",
-    "description": "Designed a full suite of promotional and service graphics for an event center client, establishing a cohesive visual identity across all marketing materials.",
+    "description": "Created service-focused visual materials for an event center client, supporting clearer promotion of venue offerings through polished Canva-based graphics.",
     "techStack": ["Canva"],
     "completionDate": "2025-05-01",
     "category": "Design",
     "status": "Completed",
     "keyContributions": [
-      "Designed service graphics for an Event Center client"
+      "Designed service graphics for an event center client with clean layout, readable hierarchy, and consistent visual styling"
+    ],
+    "evidenceArtifacts": [
+      {
+        "label": "Canva Design File",
+        "href": "https://www.canva.com/design/DAHA4OYPE4k/u1r-xVbL8NJzqeJDO-G4Vg/edit"
+      }
     ],
     "evidenceLinks": [
       "https://www.canva.com/design/DAHA4OYPE4k/u1r-xVbL8NJzqeJDO-G4Vg/edit"
