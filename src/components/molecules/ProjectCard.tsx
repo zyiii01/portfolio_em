@@ -6,6 +6,8 @@ interface ProjectCardProps {
 }
 
 export default function ProjectCard({ project }: ProjectCardProps) {
+  const artifacts = project.evidenceArtifacts ?? [];
+
   return (
     <article
       className="interactive-card interactive-card-lift group relative rounded-2xl p-5 border transition-all duration-300 flex flex-col gap-4 cursor-pointer"
@@ -27,6 +29,11 @@ export default function ProjectCard({ project }: ProjectCardProps) {
             {project.category}
           </p>
           <h3 className="text-base font-semibold text-white">{project.title}</h3>
+          {project.role && (
+            <p className="mt-1 text-xs font-medium" style={{ color: "var(--rose)" }}>
+              {project.role}
+            </p>
+          )}
         </div>
         <Badge
           label={project.status}
@@ -58,6 +65,43 @@ export default function ProjectCard({ project }: ProjectCardProps) {
           </li>
         ))}
       </ul>
+
+      {/* Proof of Work */}
+      {artifacts.length > 0 && (
+        <div
+          className="rounded-lg border p-3"
+          style={{
+            borderColor: "rgba(200,71,113,0.24)",
+            background:
+              "linear-gradient(135deg, rgba(61,13,98,0.34), rgba(200,71,113,0.08))",
+          }}
+        >
+          <p
+            className="mb-2 text-[0.65rem] font-semibold uppercase tracking-[0.16em]"
+            style={{ color: "var(--butter)" }}
+          >
+            Project Deliverables &amp; Artifacts
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {artifacts.map((artifact) => (
+              <a
+                key={`${artifact.label}-${artifact.href}`}
+                href={artifact.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded-md border px-2.5 py-1 text-[0.68rem] font-medium transition-all duration-200 hover:-translate-y-0.5 hover:border-yellow-200/70 hover:text-yellow-100"
+                style={{
+                  borderColor: "rgba(255,233,138,0.28)",
+                  color: "rgba(255,255,255,0.82)",
+                  background: "rgba(255,255,255,0.04)",
+                }}
+              >
+                {artifact.label}
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* Tech Stack Badges */}
       <div className="flex flex-wrap gap-1.5 mt-auto">

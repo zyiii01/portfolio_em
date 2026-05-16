@@ -16,16 +16,44 @@
   },
   {
     "id": "page-creation",
-    "title": "Page Creation",
-    "description": "Assisted in updating and auditing content for multiple car dealership websites, improving SEO metadata, internal links, and overall page quality across templates.",
-    "techStack": ["SEO", "HTML", "CSS", "VSCode", "Mobile Simulator Extension"],
+    "title": "Page Creation Project (Client Web Optimization)",
+    "role": "Front-End & SEO QA Intern",
+    "description": "Supported client web optimization for car dealership websites by auditing page structure, responsive behavior, metadata accuracy, and content consistency across reusable dealer templates.",
+    "techStack": ["HTML5", "CSS3", "VS Code", "Mobile Simulator Extension", "SEO Audit Tools"],
     "completionDate": "2025-05-10",
     "category": "SEO Audit",
     "status": "Completed",
     "keyContributions": [
-      "Assisted in updating content for car dealership websites",
-      "Reviewed media queries, SEO metadata, map links, internal links, and H1 tags/descriptions for assigned sites",
-      "Replaced and updated images across various car dealer templates"
+      "Updated assigned car dealership website content while preserving brand consistency and template structure",
+      "Audited media queries, map links, internal navigation, H1 tags, descriptions, and SEO metadata to strengthen page quality",
+      "Verified mobile responsiveness and layout consistency with simulator-based QA checks across dealer page templates",
+      "Replaced outdated imagery and validated visual placement to maintain polished, client-ready page presentations"
+    ],
+    "evidenceArtifacts": [
+      {
+        "label": "Client Site Audit 1",
+        "href": "https://docs.google.com/document/d/1m9uPkE1fjwPMxFwIkzSwRAlg83B_9qNJDJjzvaBGup8/edit?tab=t.0"
+      },
+      {
+        "label": "Client Site Audit 2",
+        "href": "https://docs.google.com/document/d/1tJ32PxJmtvJ1vI-AJ1vgXUfxlZGXrf_rhpvJ5WnC00k/edit?tab=t.0"
+      },
+      {
+        "label": "Client Site Audit 3",
+        "href": "https://docs.google.com/document/d/1M19tanWVznbzdWmgtmGKTYHV-bGVIO-0B-OD_hTWSJA/edit?tab=t.0"
+      },
+      {
+        "label": "Client Site Audit 4",
+        "href": "https://docs.google.com/document/d/1GoyMk3YQvJQxsbkf9Jjz00H4KXM7DETFpmc-D01QW4k/edit?tab=t.0"
+      },
+      {
+        "label": "Client Site Audit 5",
+        "href": "https://docs.google.com/document/d/1p6QX-DIFHsSKGeLD4S8OXibGX8N9oO3ODW4wPT22Krc/edit?tab=t.0"
+      },
+      {
+        "label": "Project Tracker Spreadsheet",
+        "href": "https://docs.google.com/spreadsheets/d/1I9DWg38yJfCJxWGHwZobB0X5bh_S__mjN-Ae6fUUhio/edit?gid=0#gid=0"
+      }
     ],
     "evidenceLinks": [
       "https://docs.google.com/document/d/1m9uPkE1fjwPMxFwIkzSwRAlg83B_9qNJDJjzvaBGup8/edit?tab=t.0",

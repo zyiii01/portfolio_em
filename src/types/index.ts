@@ -1,11 +1,16 @@
 export interface Project {
   id: string;
   title: string;
+  role?: string;
   description: string;
   techStack: string[];
   completionDate: string;
   category: "SEO Audit" | "Frontend" | "Research" | "Design" | "Full Stack";
   status: "Completed" | "In Progress";
+  evidenceArtifacts?: {
+    label: string;
+    href: string;
+  }[];
   evidenceLinks?: string[];
   githubLink?: string;
   liveLink?: string;
